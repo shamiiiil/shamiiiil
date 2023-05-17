@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shamiiiil](https://github.com/shamiiiil)
 
-- 💬 Ask me about **react,node**
+- 💬 Ask me about **react,node,basic algorithms**
 
 - 📫 How to reach me **shamaalmatykz@mail.ru**
 
