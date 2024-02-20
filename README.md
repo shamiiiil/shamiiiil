@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Shamil Kavdumov</h1>
-<h3 align="center">A pre-junior full-stack developer from Kazakhstan,searching for internship</h3>
+<h3 align="center">WEB developer from Kazakhstan,searching for internship</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamiiiil&label=Profile%20views&color=0e75b6&style=flat" alt="shamiiiil" /> </p>
 
